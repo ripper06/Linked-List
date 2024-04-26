@@ -1,0 +1,4 @@
+
+        delete backup;
+
+        return head;
